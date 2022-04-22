@@ -6,10 +6,10 @@ crops in a better manner,
 
 # Tech Stack
 
-1.FrontEnd: Flutter
-2.Backend: Firebase for Authentication and Database
-           OpenWeather API for Weather Data  
+FrontEnd: Flutter <br>
+Backend: Firebase for Authentication and Database, OpenWeather API for Weather Data  <br>
 
+<br>
 <table style="border:1px solid;">
   <tr >
     <th style="text-align: center; border:1px solid;">Login Page</th>
