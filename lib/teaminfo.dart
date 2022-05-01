@@ -80,7 +80,7 @@ class TeamInfoState extends State<TeamInfo> {
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text('',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
+                            Text('Prajwal Horti',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
                             Text('',style: GoogleFonts.poppins(fontSize: 20,color: Colors.white,fontWeight: FontWeight.w300),),
                             Text('',style: GoogleFonts.poppins(color: Colors.white),),
                           ],
@@ -106,7 +106,7 @@ class TeamInfoState extends State<TeamInfo> {
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Text('',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
+                            Text('Ansh Mishra',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
                             Text('',style: GoogleFonts.poppins(fontSize: 20,color: Colors.white,fontWeight: FontWeight.w300),),
                             Text('',style: GoogleFonts.poppins(color: Colors.white),),
                           ],
@@ -142,42 +142,11 @@ class TeamInfoState extends State<TeamInfo> {
                         Column(
                           crossAxisAlignment: CrossAxisAlignment.end,
                           children: [
-                            Text('',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
+                            Text('Jahnvi Sri Dhanya',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
                             Text('',style: GoogleFonts.poppins(fontSize: 20,color: Colors.white,fontWeight: FontWeight.w300),),
                             Text('',style: GoogleFonts.poppins(color: Colors.white),)
                           ],
                         )
-                      ],
-                    ),
-                  ),
-                ),
-              ),
-              Padding(
-                padding: const EdgeInsets.all(20),
-                child: GestureDetector(
-                  onTap: ()=>launch(''),
-                  child: Container(
-                    padding: const EdgeInsets.all(20),
-                    decoration:BoxDecoration(
-                      color: const Color(0xFFf8b470),
-                      borderRadius: BorderRadius.circular(20),
-                    ),
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                      children: [
-                        Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Text('',style: GoogleFonts.poppins(fontSize: 24,color: Colors.white,fontWeight: FontWeight.w600),),
-                            Text('',style: GoogleFonts.poppins(fontSize: 20,color: Colors.white,fontWeight: FontWeight.w400),),
-                            Text('',style: GoogleFonts.poppins(color: Colors.white),),
-                          ],
-                        ),
-                        const CircleAvatar(
-                          radius: 50,
-                          backgroundColor: Color(0xFFf8b470),
-                          backgroundImage: NetworkImage(''),
-                        ),
                       ],
                     ),
                   ),

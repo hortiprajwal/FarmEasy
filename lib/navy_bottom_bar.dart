@@ -51,7 +51,7 @@ class _NavBarState extends State<NavBar> {
         ),
       ),
       bottomNavigationBar: BottomNavyBar(
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.greenAccent.shade700,
         selectedIndex: _currentIndex,
         showElevation: true,
         onItemSelected: (index) {
