@@ -32,21 +32,42 @@ Backend: Firebase for Authentication and Database, OpenWeather API for Weather D
 <br>
 <table style="border:1px solid;">
   <tr >
-    <th style="text-align: center; border:1px solid;">Tips Page</th>
+    <th style="text-align: center; border:1px solid;">Soil Detail Page</th>
     <th style="text-align: center; border:1px solid;">Chat Page</th>
+    <th style="text-align: center; border:1px solid;">Chat Result Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="images/soildetails.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="images/chat.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="images/chatresult.png">
+    </td>
+  </tr>
+  
+</table>
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Tips</th>
     <th style="text-align: center; border:1px solid;">Profile Page</th>
+    <th style="text-align: center; border:1px solid;">Crop Diseases </th>
   </tr>
   <tr >
     <td style="text-align: center; border:1px solid;padding:1em;">
         <img width="80%" src="images/tips.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-         <img width="80%" src="images/chat.png">
+         <img width="80%" src="images/profilepage.png">
     </td>
     <td style="text-align: center; border:1px solid;padding:1em;">
-         <img width="80%" src="images/profile.png">
+         <img width="80%" src="images/cropdisease.png">
     </td>
   </tr>
   
 </table>
+
 <hr>
