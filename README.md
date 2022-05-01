@@ -1,16 +1,52 @@
-# loginpage
+# FarmEasy
 
-A new Flutter project.
+FarmEasy is an app-based platform which promotes Smart Agriculture among Indian Farmers. It
+is a self-contained digital environment for Farmers to learn more about Farming, cultivate their
+crops in a better manner,
 
-## Getting Started
+# Tech Stack
 
-This project is a starting point for a Flutter application.
+FrontEnd: Flutter <br>
+Backend: Firebase for Authentication and Database, OpenWeather API for Weather Data  <br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Login Page</th>
+    <th style="text-align: center; border:1px solid;">Weather Page</th>
+    <th style="text-align: center; border:1px solid;">Soil Types</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="images/loginpage.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="images/weather.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="images/soiltypes.png">
+    </td>
+  </tr>
+  
+</table>
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Tips Page</th>
+    <th style="text-align: center; border:1px solid;">Chat Page</th>
+    <th style="text-align: center; border:1px solid;">Profile Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="images/tips.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="images/chat.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="images/profile.png">
+    </td>
+  </tr>
+  
+</table>
+<hr>
